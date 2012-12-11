@@ -43,3 +43,15 @@ sed -i 's/+xml/+xml;/g' %{buildroot}/%{_datadir}/applications/%{name}.desktop
 %{_datadir}/mime/packages/%{name}*
 %defattr(755,root,root,755)
 %{_bindir}/zfo_editor
+
+
+%changelog
+* Sat Oct 15 2011 Tomas Kindl <supp@mandriva.org> 0.3.2-2mdv2012.0
++ Revision: 704791
+- add missing requires
+
+* Sat Oct 01 2011 Tomas Kindl <supp@mandriva.org> 0.3.2-1
++ Revision: 702226
+- import zfo-editor
+
+
