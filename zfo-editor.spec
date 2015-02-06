@@ -1,6 +1,6 @@
 Name:		zfo-editor
 Version:	0.3.2
-Release:	%mkrel 2
+Release:	3
 Summary:	ZFO editor allows working with zfo forms 
 License:	GPLv2
 Group:		Office
