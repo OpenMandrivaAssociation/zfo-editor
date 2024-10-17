@@ -4,7 +4,7 @@ Release:	3
 Summary:	ZFO editor allows working with zfo forms 
 License:	GPLv2
 Group:		Office
-URL:		http://labs.nic.cz/page/768/zfo-editor/
+URL:		https://labs.nic.cz/page/768/zfo-editor/
 Source0:	http://labs.nic.cz/files/labs/zfo_editor/%{name}-%{version}.tar.gz
 BuildRequires:	python-setuptools
 BuildArch:	noarch
